@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">NotesApp</string>
+    <string name="app_name">The Notes Application</string>
+    <string hintNotes="Enter your notes">hintNotes</string>
+    <string hintURL="Enter your URL">hintURL</string>
 </resources>
