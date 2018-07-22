@@ -1,4 +1,4 @@
-package com.example.ali.notesapp.Add;
+package com.example.ali.notesapp.NotesApp.Add.View;
 
 public interface IAddActivity {
 

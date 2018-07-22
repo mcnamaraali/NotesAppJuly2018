@@ -1,9 +1,8 @@
-package com.example.ali.notesapp.Add.Presenter;
+package com.example.ali.notesapp.NotesApp.Add.Presenter;
 
 import android.content.Context;
 
-import com.example.ali.notesapp.Add.AddActivity;
-import com.example.ali.notesapp.Add.IAddActivity;
+import com.example.ali.notesapp.NotesApp.Add.View.IAddActivity;
 
 public class AddPresenter  {
 
@@ -16,7 +15,6 @@ public class AddPresenter  {
     }
 
     public void handleError(){
-
         addview.isError();
     }
 
